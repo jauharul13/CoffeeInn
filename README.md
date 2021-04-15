@@ -1,6 +1,9 @@
 # CoffeeInn
 "A mobile app to educate Indonesia about Coffee and its richness in Indonesia"
 
+
+![](/Images/Home.png) ![](/Images/About.png) ![](/Images/Partnership.png)
+
 # Team Organization
 Ryan - PiC of Development and documentation
 
